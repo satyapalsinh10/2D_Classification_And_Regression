@@ -22,8 +22,7 @@ The implemented network is a fully-connected neural network with two hidden laye
 ### 1.3 Results
 <!-- The final training and test accuracy will be reported after the network has been trained. The train and test loss will also be plotted as a function of training time, allowing you to visualize the learning progress.
  -->
-### 1.4 Disclaimer
-This implementation is for solving the given classification problem. It is important to understand the problem requirements and customize the network architecture, hyperparameters, and other components accordingly. The accuracy and performance of the network may vary depending on the specific dataset and problem complexity.
+
 
 
 ## Problem 2: Regression for 2-D Dataset
@@ -48,8 +47,8 @@ Followed the below steps to solve the problem:
 ### 2.3 Results
 <!-- The final training and test accuracy will be reported after the network has been trained. The train and test loss will also be plotted as a function of training time, allowing you to visualize the learning progress.
  -->
-### 2.4 Disclaimer
-This implementation is for solving the given regression problem. It is important to understand the problem requirements and customize the network architecture, hyperparameters, and other components accordingly. The accuracy and performance of the network may vary depending on the specific dataset and problem complexity.
+## Disclaimer
+This implementation is for solving the given classification and regression problem. It is important to understand the problem requirements and customize the network architecture, hyperparameters, and other components accordingly. The accuracy and performance of the network may vary depending on the specific dataset and problem complexity.
 
 
 
