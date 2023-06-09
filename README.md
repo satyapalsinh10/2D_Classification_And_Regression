@@ -1,4 +1,4 @@
-# GitHub Repository README
+# Implemention of Classification and Regression by designing NLL and MSE Loss functions
 
 This repository contains the implementation of a fully-connected network using PyTorch to solve a classification and Regression problems.
 
